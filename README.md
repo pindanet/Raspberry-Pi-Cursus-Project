@@ -10,3 +10,6 @@ Noteer hier welke software je gebruikt.
 Noteer eveneens welke aanpassingen je aan welke configuratiebestanden je hebt doorgevoerd.
 ### Eigen scripts en programma's
 Sla je als apparte bestanden op in deze repository.
+## Afbeeldingen toevoegen
+![Dit is een online afbeelding](https://myoctocat.com/assets/images/base-octocat.svg)
+![En dit de afbeelding in onze image map](images/GitHub-Mark-64px.png)
